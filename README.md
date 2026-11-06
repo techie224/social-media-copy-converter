@@ -16,7 +16,7 @@
 </p>
 
 ## Demo screenshot
-![Demo screenshot](images\demo_screenshot.png)
+![Demo screenshot](images/demo_screenshot.png)
 
 ## Tech Stack
 
